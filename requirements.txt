@@ -1,6 +1,5 @@
-Django>=3.2,<4.0
+Django
 djangorestframework
 celery
 redis
 django-environ
-// ...existing code...
